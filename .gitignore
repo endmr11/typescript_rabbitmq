@@ -1,0 +1,4 @@
+microservice_example_admin/node_modules
+microservice_example_admin/.env
+microservice_example_main/node_modules
+microservice_example_main/.env

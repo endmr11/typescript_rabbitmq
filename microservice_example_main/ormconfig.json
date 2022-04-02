@@ -1,0 +1,14 @@
+{
+  "useUnifiedTopology": true,
+  "type": "mongodb",
+  "host": "localhost",
+  "database": "yt_node_main",
+  "entities": [
+    "src/entity/*.js"
+  ],
+  "cli": {
+    "entitiesDir": "src/entity"
+  },
+  "logging": false,
+  "synchronize": true
+}
